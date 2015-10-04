@@ -52,6 +52,6 @@ private boolean loggedIn = false;
   
   public void testCommit() {
 	 //hi
-	 //Generating first merge conflict from "other person"
+	 //making conflicts
   }
 }
