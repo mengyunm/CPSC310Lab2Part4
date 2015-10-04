@@ -52,6 +52,7 @@ private boolean loggedIn = false;
   
   public void testCommit() {
 	 //hi
-	 //making conflicts
+	 //Trying to make merge conflicts
+	 //Trying really hard to make merge conflicts
   }
 }
