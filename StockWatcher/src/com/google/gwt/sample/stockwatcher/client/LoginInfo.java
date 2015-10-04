@@ -49,4 +49,8 @@ private boolean loggedIn = false;
   public void setNickname(String nickname) {
     this.nickname = nickname;
   }
+  
+  public void testCommit() {
+	 //hi
+  }
 }
