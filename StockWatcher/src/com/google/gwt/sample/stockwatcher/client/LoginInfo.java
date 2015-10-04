@@ -41,18 +41,15 @@ private boolean loggedIn = false;
   public void setEmailAddress(String emailAddress) {
     this.emailAddress = emailAddress;
   }
-
-  public String getNickname() {
-    return nickname;
-  }
-
-  public void setNickname(String nickname) {
-    this.nickname = nickname;
-  }
   
   public void testCommit() {
 	 //hi
 	 //Trying to make merge conflicts
 	 //Trying really hard to make merge conflicts
   }
+  public void testCommit2() {
+		 //hi
+		 //Trying to make merge conflicts
+		 //Trying really hard to make merge conflicts
+	  }
 }
