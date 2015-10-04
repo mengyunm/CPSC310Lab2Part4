@@ -21,5 +21,10 @@ private boolean loggedIn = false;
 		 //hi
 		 //Trying to make merge conflicts
 		 //Trying really hard to make merge conflicts
-	  }
+  }
+  public void testCommit3() {
+		 //hi
+		 //Trying to make merge conflicts
+		 //Trying really hard to make merge conflicts
+}
 }
